@@ -29,6 +29,7 @@ Dell Inspiron 3521
 
 ## What is not working
 - Card Reader
+- Audio
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
