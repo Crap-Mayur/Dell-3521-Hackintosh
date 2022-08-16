@@ -1,5 +1,5 @@
 ## Dell Inspiron 3521 Hackintosh Using Opencore
-![Dell Inspiron 3521 BigSur](https://i.imgur.com/7NNG1gg.png)
+![Dell Inspiron 3521 BigSur](https://i.imgur.com/wIUltb0.png)
 
 ## Installation Guide Followed
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
