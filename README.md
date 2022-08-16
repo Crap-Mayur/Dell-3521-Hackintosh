@@ -1,16 +1,15 @@
- Dell Inspiron 3521 Hackintosh Using Opencore
+## Dell Inspiron 3521 Hackintosh Using Opencore
 
- -Installation Guide Followed
+## Installation Guide Followed
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
 
--System Configuration
+## System Configuration
 Dell Inspiron 3521
 - Audio Device ALC3221 --> ALC282
 - Intel i3 3217U - Ivy Bridge
 - Intel HD4000 (iGPU)
 - Dell Wireless 1705
-
-(What is working)
+## What is working
 - Intel HD4000 Graphics
 - Brightness Control
 - HDMI
