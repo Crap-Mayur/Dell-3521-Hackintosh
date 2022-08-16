@@ -25,10 +25,10 @@ Dell Inspiron 3521
 - USB Controller
 - System Trackpad and keyboard
 - External USB Keyboard and Mouse
+- Sleep Works
 
 ## What is not working
 - Card Reader
-- Sleep not working, so goto `System Preferences > Energy Saver`, set `Computer sleep` and `Display sleep` to never and uncheck Wake for network access
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
