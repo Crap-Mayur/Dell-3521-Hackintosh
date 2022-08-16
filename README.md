@@ -1,11 +1,34 @@
-# Dell-3521-Hackintosh
-This is My Dell Inspiron 3521
-Intel i3-3217U
-Intel HD 4000
-DW1705 WIFI
-Bluetooth Works too need a restart after a boot
-Hdmi Hotplug work too
-ALC282 Audio i havent fixed yet
-BIGSUR & Catalina Both Tested Working fine
-Everything works fine rather then Airdrop&Audio
-I hope you guys like my work!!!!!
+ Dell Inspiron 3521 Hackintosh Using Opencore
+
+ -Installation Guide Followed
+ OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
+
+-System Configuration
+Dell Inspiron 3521
+- Audio Device ALC3221 --> ALC282
+- Intel i3 3217U - Ivy Bridge
+- Intel HD4000 (iGPU)
+- Dell Wireless 1705
+
+(What is working)
+- Intel HD4000 Graphics
+- Brightness Control
+- HDMI
+- Camera
+- Battery Status
+- LAN
+- WiFi
+- BlueTooth
+- USB Controller
+- System Trackpad and keyboard
+- External USB Keyboard and Mouse
+
+## What is not working
+- Card Reader
+- Sleep not working, so goto `System Preferences > Energy Saver`, set `Computer sleep` and `Display sleep` to never and uncheck Wake for network access
+
+## References & Special thanks to
+- [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Boot to Recovery](https://apple.stackexchange.com/questions/367336/macos-boot-to-recovery-mode-command-line)
+- [gibMacOS ](https://github.com/corpnewt/gibMacOS)
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
