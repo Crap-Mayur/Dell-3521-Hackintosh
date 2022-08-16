@@ -3,6 +3,9 @@
 
 ## Installation Guide Followed
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
+ 
+## IMP FOR BOOTING
+ You will Need to gen serial and add it to config.plist using Gensmbios
 
 ## System Configuration
 Dell Inspiron 3521
@@ -29,6 +32,5 @@ Dell Inspiron 3521
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
-- [Boot to Recovery](https://apple.stackexchange.com/questions/367336/macos-boot-to-recovery-mode-command-line)
 - [gibMacOS ](https://github.com/corpnewt/gibMacOS)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
