@@ -27,9 +27,7 @@ Dell Inspiron 3521
 - External USB Keyboard and Mouse
 - Sleep Works
 - Audio Working 
-
-## What is not working
-- Card Reader
+- Card Reader Working 
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
